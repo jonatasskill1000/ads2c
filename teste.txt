@@ -1,3 +1,0 @@
-equisitos:
-
-A empresa X precisa desenvolver o carro voador Para Viagens com passageiros rapidas por ate 10 dolares.
